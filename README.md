@@ -38,7 +38,7 @@ gemini.api.key=YOUR_GEMINI_KEY
 Run the Spring Boot application
 By default, the server runs at: http://localhost:8080
 
-###3. Chrome Extension Setup
+### 3. Chrome Extension Setup
 Open Chrome and go to: chrome://extensions/
 
 Enable Developer Mode
@@ -64,5 +64,7 @@ The suggestion is returned and shown directly in Gmail for quick use.
 
 ## 🙋‍♂️ Author
 SUBRATH MODI JAIN
+
 🔗 LinkedIn - https://www.linkedin.com/in/subrath-modi-jain-444680284/
+
 📧 subrathmodi@gmail.com
