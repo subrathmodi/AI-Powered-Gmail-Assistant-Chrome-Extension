@@ -32,10 +32,13 @@ A smart Gmail assistant built using **Spring Boot** and integrated with the **Ge
 Ensure you have Java 17+ and Maven installed.
 
 Add your Gemini API key in application.properties:
+
 gemini.api.url=YOUR_GEMINI_URL
+
 gemini.api.key=YOUR_GEMINI_KEY
 
 Run the Spring Boot application
+
 By default, the server runs at: http://localhost:8080
 
 ### 3. Chrome Extension Setup
